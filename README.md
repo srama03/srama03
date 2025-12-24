@@ -1,8 +1,13 @@
 # 💫 About Me
-🎓 Computational Data Science @ Penn State (Minor in Math, Business Certificate)  
-📊 Interests: Applied ML, EdTech, NLP, Human-Centered AI  
-🌱 Currently working on: Project Management with Enhanced Monte Carlo (Streamlit) & AI-powered Exam Assistant  
-📚 Favorite projects: CPM/PERT Analyzer, EDA on Top 10 Educational YouTube Channels  
+👩🏽‍💻 Computational Data Science @ Penn State  
+📊 Interests: Applied ML, Operations Research, EdTech, Human-Centered AI  
+🔧 Recent work includes:
+- Simulation-driven ML for semi-dynamic project delay prediction (DS 340W capstone)
+- CPM/PERT schedule analysis tool with Streamlit UI
+- Language identification using classical NLP methods
+🔧 Currently working on:
+- Deploying my simulation-driven ML capstone
+- Exploring deep equilibrium (DEQ) models for sequence modeling  
 
 ---
 
