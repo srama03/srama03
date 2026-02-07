@@ -2,12 +2,11 @@
 👩🏽‍💻 Computational Data Science @ Penn State  
 📊 Interests: Applied ML, Operations Research, EdTech, Human-Centered AI  
 🔧 Recent work includes:
-- Simulation-driven ML for semi-dynamic project delay prediction (DS 340W capstone)
+- Simulation-driven ML for semi-dynamic project delay prediction (DS 340W capstone) + saving artifacts on MLFlow and docckerized training and inference
 - CPM/PERT schedule analysis tool with Streamlit UI
 - Language identification using classical NLP methods
 
 🔧 Currently working on:
-- Deploying my simulation-driven ML capstone
 - Exploring deep equilibrium (DEQ) models for sequence modeling  
 
 ---
