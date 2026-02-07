@@ -7,7 +7,7 @@
 - Language identification using classical NLP methods
 
 🔧 Currently working on:
-- Exploring deep equilibrium (DEQ) models for sequence modeling  
+- Exploring deep equilibrium (DEQ) models for intent prediction on banking77 dataset (compared to the performance of a 3-layer deep tranformer) 
 
 ---
 
