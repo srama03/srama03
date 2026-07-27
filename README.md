@@ -12,8 +12,8 @@
 
 🌱 **Currently exploring:**
 - Graph representation learning
-- Information retrieval and embedding evaluation
-- End-to-end ML systems and deployment
+- Embedding evaluation and representation geometry
+- Similarity search and retrieval systems
 
 ---
 
